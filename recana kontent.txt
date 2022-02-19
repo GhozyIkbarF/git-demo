@@ -3,6 +3,8 @@ Rencana kontent
 -membuat vidio react
   #jsx
   #props and usestate
+  #hook
 -PHP Dasar
 -framework javascript
+-Python Dasar
 
