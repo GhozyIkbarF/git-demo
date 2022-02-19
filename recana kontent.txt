@@ -4,4 +4,5 @@ Rencana kontent
   #jsx
   #props and usestate
 -PHP Dasar
--Python Dasar
+-framework javascript
+
