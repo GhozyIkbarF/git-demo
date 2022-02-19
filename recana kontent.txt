@@ -3,3 +3,4 @@ Rencana kontent
 -membuat vidio react
   #jsx
   #props and usestate
+-PHP Dasar
